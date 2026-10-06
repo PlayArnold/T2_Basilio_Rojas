@@ -18,3 +18,9 @@ Repositorio gestionado mediante Git.
 Control de cambios
 
 Se realizaron modificaciones en el README.md y en los archivos del proyecto para gestionar los cambios mediante Git.
+
+Gestión de ramas
+
+Rama utilizada: feature-basilio.
+
+Se desarrolló la clase ControlVersion_Basilio.java para mostrar un mensaje de control.
