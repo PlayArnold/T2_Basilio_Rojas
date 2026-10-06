@@ -14,3 +14,7 @@ Buenas noches profe , gracias por leer.
 Evidencia T2
 
 Repositorio gestionado mediante Git.
+
+Control de cambios
+
+Se realizaron modificaciones en el README.md y en los archivos del proyecto para gestionar los cambios mediante Git.
