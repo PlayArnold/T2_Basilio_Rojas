@@ -10,3 +10,7 @@ Nombre del proyecto: T2_Basilio_Rojas
 
 Descripción:
 Buenas noches profe , gracias por leer.
+
+Evidencia T2
+
+Repositorio gestionado mediante Git.
